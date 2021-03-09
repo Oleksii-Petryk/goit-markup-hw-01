@@ -1,2 +1,1 @@
-# goit-markup-hw-01
-html_hw-01
+https://oleksii-petryk.github.io/goit-markup-hw-01/ link for browser
